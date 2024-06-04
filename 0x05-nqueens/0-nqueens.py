@@ -71,3 +71,8 @@ def handle_input(list) -> int:
         exit(1)
 
     return n
+
+
+if __name__ == "__main__":
+    n = handle_input(sys.argv)
+    nqueens(n)

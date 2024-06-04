@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Nqueens puzzle challenge module."""
+"""Nqueens puzzle challenge."""
 import sys
 
 
